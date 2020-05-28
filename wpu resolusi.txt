@@ -1,4 +1,4 @@
 wpu resolusi
 1. Konsisten belajar ngoding
 2. Menguasai bahasa pemogramaman javascript, php, dan phyton, beserta framework nya
-3. Bisa membuat merch shop
+4. Sudah terbiasa memecahkan masalah di hackerrank
